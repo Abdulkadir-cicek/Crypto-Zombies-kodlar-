@@ -1,0 +1,26 @@
+_________ S_O_L_I_D_T_Y_______
+
+Type casting = dönüştürme
+->Modifier  fonksiyonlar : Bir java metodu, değişkeni ya da sınıf oluşturulurken bu öğelere kimlerin erişebileceğini belirtme olanağımız vardır. Bu eylemi gerçekleştirecek olan anahtar kelimelere Erişim Belirleyiciler(Access Modifiers) adını veririz.
+
+transfer ownership= sadece yönetici transfer eder
+
+ işlem kayıt numarası= Hash 
+İmport : birden fazla dosya olduğunda ve bir dosyayı diğerine aktarmak istiyorsak " İMPORT "
+komutunu kullanırız. solidtyde -aynı kodu 2 kere yazmamak için- yazılmış olan kodu bize getirir.
+
+Blockchain Uygulama Alanları:Bankacılık Sigortacılık, Tedarik Zinciri, İOT, BULUT SİST., Bağış sistemleri, Online Perakende Emlak Sağlık Sist...
+
+*** Array = Dizi               Fixed Arrays: Sabit Diziler 
+                                        Dynamic Arrays = Dinamik Diziler
+
+*** Struct:Yapı -> ÖR : Yapının içine  str name / uint dna gibi veriler girip tanımlarız  ) 
+***Mappings :eşlemeler (veriyi tutar örn: ether cüzdan adresi)
+   
+     npm auditfix: güvenlik açıklarını giderir
+provider : Sağlayıcı
+
+Require  : Bir nesneyi içe aktarma da kullanılacak komut
+
+Async : JavaScript'te asenkron işlevler oluşturmak için kullanılan bir anahtar kelimedir. Asenkron işlevler, işlemlerin bitmesini beklemeksizin kodun devam etmesine izin verir(kodun diğer kısmının çalışmasına izin veren komut) genelde Awaitle birlikte kullanılır ve bir işlemin tamamlanmasını bekler.
+
